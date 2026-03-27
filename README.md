@@ -2,7 +2,7 @@
 
 **Disciplina: PROGRAMAÇÃO CONCORRENTE E DISTRIBUÍDA** 
 
-**Aluno(s): Arthur Dias**
+**Aluno(s): Arthur Dias, Filipe Ferreira, Nicolas Mateus**
 
 **Turma:Manhã**
 
